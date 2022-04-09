@@ -1,3 +1,5 @@
+package pierwszy_program;
+
 public class Wizitowka {
 
     public static void main(String[] args) {

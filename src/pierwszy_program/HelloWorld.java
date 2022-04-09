@@ -1,3 +1,5 @@
+package pierwszy_program;
+
 public class HelloWorld {
 
     final int nazwa = 3;
