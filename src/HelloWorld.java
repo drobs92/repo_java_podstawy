@@ -1,10 +1,16 @@
 public class HelloWorld {
 
+    final int nazwa = 3;
+
     byte byteNumber = -128;
+    Byte byteNumberI = -128;
     short shortNumber = 32767;
     float floatNumber = 32767.780f;
     double doubleNumber = 32767.780;
     boolean logicValue = false && true;
+
+    Boolean logicValuenullBig = null;
+
     char charValue = '\r';
     String stringValue = "sgsdgwegwegweg";
 
