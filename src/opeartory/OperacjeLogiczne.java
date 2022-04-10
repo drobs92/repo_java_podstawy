@@ -10,11 +10,11 @@ public class OperacjeLogiczne {
 
         boolean wynik = a && b;
         System.out.println( !wynik);// false
-        System.out.println( a && c);// true
-        System.out.println( a || c);// true
+        System.out.println( a && c);// true czu oba są true
+        System.out.println( a || c);// true czy chociaż jeden jest true
         System.out.println( a || b);// true
         System.out.println( b || d);// false
-        System.out.println( !b);// true
+        System.out.println( !b);// true ! odwraca wartość
 
 
     }

@@ -1,17 +1,0 @@
-
-S
-java:S2589"8Remove this expression which always evaluates to "false"(ùéïŠùÿÿÿÿ
-M
-java:S2589"7Remove this expression which always evaluates to "true"(ÙÌú¬
-R
-java:S2589"7Remove this expression which always evaluates to "true"(£ª·şÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(ä¼šŞøÿÿÿÿ
-R
-java:S2589"7Remove this expression which always evaluates to "true"(ş€™Œÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(îéÅúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ş€™Œÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(£ª·şÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ä¼šŞøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ùéïŠùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”‰îúÿÿÿÿ

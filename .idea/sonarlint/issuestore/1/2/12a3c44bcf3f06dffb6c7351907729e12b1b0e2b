@@ -1,15 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îğÿÿÿÿÿ
-f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šµÔö
-S	java:S106"9Replace this use of System.out or System.err by a logger.(â°Ûçıÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(¸˜ø
-S	java:S106"9Replace this use of System.out or System.err by a logger.(óƒßÓûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¨ó¶òùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(è¢ış
-S	java:S106"9Replace this use of System.out or System.err by a logger.(î´¹ûûÿÿÿÿ
-<	java:S131""Add a default case to this switch.(š½ï„ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¿øÀşÿÿÿÿ
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(Ô¾ß‡
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(İÓÍúÿÿÿÿ
-S	java:S106+"9Replace this use of System.out or System.err by a logger.(œÏè”üÿÿÿÿ
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(±¤ï…
