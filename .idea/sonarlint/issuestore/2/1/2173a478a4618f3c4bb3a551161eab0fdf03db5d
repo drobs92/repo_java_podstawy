@@ -1,0 +1,26 @@
+
+=
+java:S1170"!Make this final field static too.(Ú¿Ñ8ÒÃüé€0
+7
+java:S1170"!Make this final field static too.(Òœ¿µ
+J
+java:S1125"(Remove the unnecessary boolean literals.(é¡ã®øÿÿÿÿ8ÙÃüé€0
+V
+java:S1854";Remove this useless assignment to local variable "zmienna".(òâÿ²úÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "drugaZmienna".(ÁµëÌıÿÿÿÿ
+C
+java:S1172"-Remove this unused method parameter "adding".(È´—¶
+L
+java:S1481"1Remove this unused "drugaZmienna" local variable.(ÁµëÌıÿÿÿÿ
+V
+java:S1117";Rename "zmienna" which hides the field declared at line 19.(òâÿ²úÿÿÿÿ
+G
+java:S1481",Remove this unused "zmienna" local variable.(òâÿ²úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾¨È®
+K
+java:S1854)"5Remove this useless assignment to local variable "a".(ä´¬
+A
+java:S1481&"&Remove this unused "a" local variable.(ğ…‰¤üÿÿÿÿ
+<
+java:S1481)"&Remove this unused "a" local variable.(ä´¬
