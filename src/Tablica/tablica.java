@@ -4,7 +4,7 @@ public class tablica {
     public static void main(String[] args) {
         double[] mojDouble = new double[4];
 
-        double[] mojDoubleZainicjalizowany = new double[]{34d, 45d, 66d, 33d};
+        double[] mojDoubleZainicjalizowany = new double[]{34d, 45d, 66d, 33d};// w {podane są już wartości
         double[] zadanieDouble = new double[10];
 //ręcznie wypełnienie tablicy moj double
         mojDouble[0] = 234.2;
@@ -15,9 +15,9 @@ public class tablica {
         System.out.println(mojDouble[1]);
         System.out.println(mojDouble[2]);
         System.out.println(mojDouble[3]);
-        //wypełnienie tablicy za pomocą for
+        //wyprintowanie całej tablicy z pomocą for
         for (double temp : mojDoubleZainicjalizowany)
-            System.out.println((temp + " "));
+            System.out.println((temp + "x"));
         //zadanie
         double[] mojeDouble = new double[4];
         double j=1;

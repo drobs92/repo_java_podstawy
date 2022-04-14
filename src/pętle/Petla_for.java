@@ -101,5 +101,9 @@ n określa liczbę kolumn oraz liczbę wierszy
             System.out.println();// tutaj mówię że po wykonaniu size liter A ma zrobil pusty line
             //pętla wraca do i i wykona się tyle razy ile był size
         }*/
+        String[] array = {"Ala", "ma", "kota","i co z tego"};
+        for (String element : array) {
+            System.out.println(element + " ");
+        }
     }
 }

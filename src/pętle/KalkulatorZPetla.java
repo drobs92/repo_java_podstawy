@@ -20,6 +20,7 @@ public class KalkulatorZPetla {
             String dzialanie = scanner.next();
             if (Objects.equals(dzialanie, "/") && b == 0) {
                 System.out.println("Nie dziel przez 0!");
+                break;
             }
 
             switch (dzialanie) {

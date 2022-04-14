@@ -26,7 +26,7 @@ public class jebanaTablica {
         System.out.println("tablica 2: ");
         for (int i=0;i<tablica2.length;i++) {
             tablica2[i] = tablica[tablica.length-i-1];//tablica dwa ma przyjąć wawrtości tablicy[ 5-0-1 =4 czyli 0,1,2,3,4 wartości wpisanej w tablicy
-            System.out.println(tablica2[i] + " ");
+            System.out.print(tablica2[i] + " ");
         }
         System.out.println("");
         System.out.println("Tablica 1: ");

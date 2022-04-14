@@ -10,9 +10,9 @@ public class zadanieZTablicamiWielowym {
         for (int i = 0; i < tab.length; i++) {
             for (int j = 0; j < tab[i].length; j++) {
                 if (i == 0 || j == 0) {
-                    tab[i][j] = i + j + 1;
+                    tab[i][j] = i + j;
                 } else if (i > 0 || j > 0) {
-                    tab[i][j] = (i + 1) * (j + 1);
+                    tab[i][j] = (i) * (j);
                 }
             }
         }
