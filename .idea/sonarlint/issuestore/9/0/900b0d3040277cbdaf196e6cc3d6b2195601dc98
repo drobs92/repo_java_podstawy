@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àå¬Àûÿÿÿÿ
+[
+java:S1854	"@Remove this useless assignment to local variable "wyswietlacz1".(µ‰©Úøÿÿÿÿ
+L
+java:S1481	"1Remove this unused "wyswietlacz1" local variable.(µ‰©Úøÿÿÿÿ

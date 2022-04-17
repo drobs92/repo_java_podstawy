@@ -27,9 +27,31 @@ V
 &src/Tablica/tablicaWielowymiarowa.java,0\0\00aabe099cb54c5740a779f702796a78fa5c7358
 H
 src/Tablica/tablica.java,4\d\4de32275e5c0821f0d5c7452635d150f62e61318
-R
-"src/Klasy/zadanie/Point2DMain.java,c\5\c545b44a54c0762527af04fe12f96daa21525c54
-[
-+src/Klasy/zadanie/OperacjeArytmetyczne.java,0\0\0006875de7c85ba7db800a7bef8ee86b26363d5d
 K
 src/Klasy/zadanie/Bank.java,e\6\e61af072db2107b2a5958772314e0950485ba338
+I
+src/pętle/Petla_for.java,6\1\61e0c11e7dce5c59ef0f731b0c3d0c8262f94697
+M
+src/opeartory/Kalkulator.java,1\2\12a3c44bcf3f06dffb6c7351907729e12b1b0e2b
+D
+src/Klasy/Human.java,8\8\881db210f6c63d1dc4c55523d4c2ad9bd25ec6b8
+H
+src/Klasy/HumanMain.java,9\0\90a1645157080d78efc9a027b72628078ce436fc
+R
+"src/Klasy/wewnętrzne/Telefon.java,5\7\579e911d1584fbee6c7513ffc8e469b554665fb9
+V
+&src/Klasy/wewnętrzne/TelefonMain.java,9\0\900b0d3040277cbdaf196e6cc3d6b2195601dc98
+]
+-src/ZadaniaDomowe/kalkulatorZKlas/Liczby.java,9\7\97290b0b0eed15d26647612d8a37706ec3ccc878
+_
+/src/ZadaniaDomowe/kalkulatorZKlas/Operacje.java,c\2\c24288495504b2b199614ceeb5eda02405766579
+f
+6src/ZadaniaDomowe/kalkulatorZKlas/KalkulatorZKlas.java,7\b\7b47bf6a52c713dec70718d3138e4ba1e7471c0a
+`
+0src/ZadaniaDomowe/kalkulatorZKlas/FirmaMain.java,4\b\4bd58b2db550483ff2cfd38103d4616bc5fd8d77
+\
+,src/ZadaniaDomowe/kalkulatorZKlas/Firma.java,1\6\1604b5d8431c593904ce4389d115e51c52eba158
+P
+ src/pętle/KalkulatorZPetla.java,7\6\769286d480ea1d7f4174e990e11aaa34a28b9f7a
+P
+ src/klasyString/klasyString.java,a\f\afe48b0f1d27807c91cc004b8c675377668abf35

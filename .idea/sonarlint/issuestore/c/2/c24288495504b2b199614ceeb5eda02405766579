@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ÀµËˇˇˇˇˇ
+:
+java:S1118	"Hide this public constructor.(≥üøΩ8Å∆éßÇ0
+>
+java:S3010
+"(Remove this assignment of "odejmowanie".(À•À¡
+<
+java:S3010"&Remove this assignment of "dodawanie".(Ã†˝è
+:
+java:S3010"%Remove this assignment of "mnozenie".(‹¸äH
+A
+java:S3010"&Remove this assignment of "dzielenie".(‹ å⁄¯ˇˇˇˇ
+K
+java:S2209
+"5Change this instance-reference to a static reference.(À•À¡
+K
+java:S2209"5Change this instance-reference to a static reference.(Ã†˝è
+J
+java:S2209"5Change this instance-reference to a static reference.(‹¸äH
+P
+java:S2209"5Change this instance-reference to a static reference.(‹ å⁄¯ˇˇˇˇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ä≤Û™
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚Û±Ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èﬂúÇ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ÕΩ¥≠
